@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Wheat from "../assets/Wheat.jpg";
+import Wheat from "../assets/wheat.jpg";
 import forest from "../assets/forest.jpg";
 import lake from "../assets/lake.jpg";
 
