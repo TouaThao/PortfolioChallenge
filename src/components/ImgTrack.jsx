@@ -82,13 +82,13 @@ export default function ImageTrack() {
         </Link>
       </div>
       <div style={imageContainerStyle}>
-        <img style={imageStyle} src={Wheat} alt="laptop" />
+        <img style={imageStyle} src={Wheat} alt="Picture of Wheat" />
         <Link to="/about">
           <button style={buttonStyle}>About Me</button>
         </Link>
       </div>
       <div style={imageContainerStyle}>
-        <img style={imageStyle} src={lake} alt="An image with green forest" />
+        <img style={imageStyle} src={lake} alt="An Image of a Lake" />
         <Link to="/resume">
           <button style={buttonStyle}>Resume</button>
         </Link>
